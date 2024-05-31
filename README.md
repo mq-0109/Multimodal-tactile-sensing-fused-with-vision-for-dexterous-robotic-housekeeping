@@ -1,5 +1,5 @@
 # README
-Code repository of article `Multimodal tactile sensing fused with vision for dexterous robotic housekeeping`.
+Code repository of article `Multimodal tactile sensing fused with vision for dexterous robotic housekeeping`. The Matlab file has been tested on Matlab 2021b. The python file has been tested on Python 3.8.0
 
 ### 1. `Fabric_recognition.m`
 
